@@ -7,6 +7,6 @@ Contents of README file would be updated if necessary.
 
 
 ### Roadmap
-- [ ] Project Requirements
+- [x] Project Requirements
 - [x] [Task specification](https://github.com/eko24ive/IT-Revolution-2017-web-requirements/issues/2) `approved on Oct 3, 2017 at 4:29 PM GMT+3`
 - [ ] Project evaluation, progress milestones development
