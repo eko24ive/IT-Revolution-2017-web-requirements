@@ -11,3 +11,4 @@ Contents of README file would be updated if necessary.
 - [x] [Task specification](https://github.com/eko24ive/IT-Revolution-2017-web-requirements/issues/2) `approved on Oct 3, 2017 at 16:29`
 - [x] [Features prioritization](https://github.com/eko24ive/IT-Revolution-2017-web-requirements/issues/3) `approved on Oct 4, 2017 at 14:34 `
 - [ ] Project evaluation, progress milestones development
+- [ ] Translation of project specification and other appropriate documents
